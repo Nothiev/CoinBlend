@@ -2,4 +2,8 @@ scikit-learn
 joblib
 pandas
 Flask
+<<<<<<< HEAD
 gunicorn
+=======
+gunicorn
+>>>>>>> 4c608b2e5c06d2853d090b6ff711c08f667c9741
